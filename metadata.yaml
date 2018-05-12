@@ -1,0 +1,33 @@
+_repo: Tratado-das-Ilhas-Novas---13-E-descobrimento-dellas-e-outras-couzas_21011
+_version: 0.1.0
+alternative_title: "Tratado das Ilhas Novas\r\nE descobrimento delas e outras coisas"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sousa, Francisco de, active 1570
+    alias: Souza, Francisco de
+    gutenberg_agent_id: '9670'
+    url: http://www.gutenberg.org/2009/agents/9670
+description: ''
+gutenberg_bookshelf: PT Navegações e Explorações
+gutenberg_issued: '2007-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21011'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of\
+  \ public domain material\r\nfrom the Google Print project.)"
+publication_note: "Ponta Delgada--S. Miguel\r\nAçores:\r\nTyp. Minerva Insulana\r\n\
+  39--rua do Valverde (1.o andar)--39\r\n1877"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Discoveries in geography -- Portuguese'
+title: "Tratado das Ilhas Novas \r\nE descobrimento dellas e outras couzas"
+url: http://www.gutenberg.org/ebooks/21011
