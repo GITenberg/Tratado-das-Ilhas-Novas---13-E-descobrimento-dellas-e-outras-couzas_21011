@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9670'
     url: http://www.gutenberg.org/2009/agents/9670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21011#Tratado-das-Ilhas-Novas---13-E-descobrimento-dellas-e-outras-couzas
 gutenberg_bookshelf: PT Navegações e Explorações
 gutenberg_issued: '2007-04-08'
 gutenberg_type: Text
